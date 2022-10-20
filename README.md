@@ -1,2 +1,2 @@
 # Dynamic_park_slam_dateset
-slam_dataset
+slam_dataset 采集某科学园区内的数据集
